@@ -1,6 +1,6 @@
-# 📚 AI Customer Support Chatbot
+# 📚 AssistIQ - AI Customer Support Chatbot
 
-An AI-powered customer support chatbot built using **FastAPI**, **Google Gemini**, **Supabase (pgvector)**, **Sentence Transformers**, **Streamlit**, and **n8n**. The system uses a **Retrieval-Augmented Generation (RAG)** pipeline to answer customer queries from a knowledge base, perform intent classification, calculate response confidence, and trigger human handoff when required.
+AssistIQ is an AI-powered customer support chatbot to automate responses for **a publishing company** built using **FastAPI**, **Google Gemini**, **Supabase (pgvector)**, **Sentence Transformers**, **Streamlit**, and **n8n**. The system uses a **Retrieval-Augmented Generation (RAG)** pipeline to answer customer queries from a knowledge base, perform intent classification, calculate response confidence, and trigger human handoff when required.
 
 > **Designed with a modular API-first architecture, the backend can support multiple communication channels (Web, Telegram, Email, Slack, WhatsApp, etc.) without changing the AI backend.**
 
